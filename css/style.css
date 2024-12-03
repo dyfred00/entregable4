@@ -219,3 +219,15 @@ textarea{
 .contact-form button:hover {
     background-color: #2ecc71;
 }
+
+.proyecto{
+    background-color: #6c1396;
+    padding: 0 20px;
+    color: white;
+    border: 1px solid;
+}
+.proyecto:hover{
+    background-color: #ffffff;
+    color: #6c1396;
+    border: 1px solid #6c1396;
+}
